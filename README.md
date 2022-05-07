@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mystetix
 
  -🌱 I’m currently learning: Coding
-- 📫 How to reach me ...
+- 📫 How to reach me: Discord: Mystetix#4043
 
 <!---
 Mystetix/Mystetix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
